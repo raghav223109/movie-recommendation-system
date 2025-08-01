@@ -24,6 +24,6 @@ Python
 Pandas
 Pickle (for loading saved models)
 Streamlit (for the web interface)
-# data set link
+# dataset link
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download
 
